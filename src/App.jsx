@@ -21,7 +21,7 @@ function App() {
   const districtName = mockDistrictData[selectedDistrict]?.name || 'Lucknow';
 
   return (
-    <div className="min-h-screen bg-gray-300">
+    <div className="min-h-screen bg-gray-100">
       <Header />
       
       <div className="container mx-auto px-4 py-8 max-w-7xl">
